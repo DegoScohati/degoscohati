@@ -1,7 +1,7 @@
 Ola sou o Diego Henrique👋
 
 - 🔭 Trabalho com front-end 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript PHP
 
 <div>
   <a href="https://github.com/degoscohati">
