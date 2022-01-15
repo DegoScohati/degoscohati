@@ -1,6 +1,6 @@
 Ola sou o Diego Henrique👋
 
-- 🔭 Hoje trabalho com front-end 
+- 🔭 Trabalho com front-end 
 - 🌱 Estudando JavaScript
 
 <div>
