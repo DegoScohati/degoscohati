@@ -1,7 +1,7 @@
 Ola sou o Diego Henrique👋
 
 - 🔭 Trabalho com front-end 
-- 🌱 Estudando JavaScript-PHP-Ruby
+- 🌱 Estudando desenvolvimento iOS, Swift e Flutter
 
 <div>
   <a href="https://github.com/degoscohati">
